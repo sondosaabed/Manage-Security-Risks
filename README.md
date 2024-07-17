@@ -21,3 +21,6 @@ Exploring industry leading security information and event management (SIEM) tool
 
 ### Module 4: Use playbooks to respond to incidents
 Learning about the purposes and common uses of playbooks. Also exploring how cybersecurity professionals use playbooks to respond to identified threats, risks, and vulnerabilities.
+
+## Course Certificate
+![image](https://github.com/user-attachments/assets/91a1ddbe-9b15-4a29-8a55-616f7cf50dab)
